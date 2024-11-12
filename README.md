@@ -5,3 +5,5 @@ Lab-2-https://github.com/KurnaSathwika/Readme-file/blob/488c92fde068eaf72e2cbaf7
 lab-3-https://github.com/KurnaSathwika/Readme-file/blob/3f9c235111f3223588512d288c541d9174513910/Lab03-AIML.ipynb
 
 lab-4-https://github.com/KurnaSathwika/Readme-file/blob/8bff0740ff23a5ef513e3d9298a5d027592bbb81/Lab04-AIML.ipynb
+
+lab-5-https://github.com/KurnaSathwika/Readme-file/blob/16825e9f82a1bb1d5c086ad2b8aa6b6f82f573d1/lab05_aiml.ipynb
